@@ -1,0 +1,10 @@
+{
+	"pages.mainPage.name": "Device/Scene Controller",
+	"pages.mainPage.sections.types.name": "Integration Options",
+	"pages.mainPage.settings.scenes.name": "Control Scenes",
+	"pages.mainPage.settings.scenes.description": "",
+	"pages.mainPage.settings.switches.name": "Control Switches",
+	"pages.mainPage.settings.switches.description": "",
+	"pages.mainPage.settings.locks.name": "Control Locks",
+	"pages.mainPage.settings.locks.description": ""
+}
